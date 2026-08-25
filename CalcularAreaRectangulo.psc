@@ -1,0 +1,14 @@
+Algoritmo CalcularAreaRectangulo
+	
+	// 1. Entrada
+	Escribir "Ingrese la base"
+	Leer base
+	Escribir "Ingrese la altura"
+	Leer altura
+	
+	// 2. Proceso 
+	area <- base * altura
+	
+	// 3. salida
+	Escribir "El area del rectangulo es:", area
+	FinAlgoritmo
